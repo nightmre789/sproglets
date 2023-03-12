@@ -1,0 +1,280 @@
+[
+   {
+      "image": "/images/icon/icon-1.png",
+      "title": "Proper School System",
+      "section": "1",
+      "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
+   },
+   {
+      "image": "/images/icon/icon-2.png",
+      "title": "Individual Program",
+      "section": "2",
+      "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
+   },
+   {
+      "image": "/images/icon/icon-3.png",
+      "title": "Assessments",
+      "section": "3",
+      "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
+   },
+   {
+      "image": "/images/icon/icon-4.png",
+      "title": "Methods of Assessment",
+      "section": "4",
+      "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
+   },
+   {
+      "image": "/images/icon/icon-5.png",
+      "title": "Instruments",
+      "section": "5",
+      "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
+   },
+
+   {
+      "image": "/images/icon/icon-teacher.png",
+      "title": "Structured Teaching",
+      "cate": "school"
+   },
+   {
+      "image": "/images/icon/icon-course.png",
+      "title": "Occupational Therapy",
+      "cate": "school"
+   },
+   {
+      "image": "/images/icon/believe.png",
+      "title": "Son rise program",
+      "cate": "school"
+   },
+   {
+      "image": "/images/icon/icon-fitness.png",
+      "title": "Physiotherapy",
+      "cate": "school"
+   },
+   {
+      "image": "/images/icon/icon-home.png",
+      "title": "Daily Living Skills",
+      "cate": "school"
+   },
+   {
+      "image": "/images/icon/icon-eye.png",
+      "title": "Sensory Integration Therapies",
+      "cate": "school"
+   },
+   {
+      "image": "/images/icon/icon-test.png",
+      "title": "ABA Therapy",
+      "cate": "school"
+   },
+   {
+      "image": "/images/icon/icon-music.png",
+      "title": "Socialization / Play Skills / Music",
+      "cate": "school"
+   },
+   {
+      "image": "/images/icon/icon-family.png",
+      "title": "Family Counseling",
+      "cate": "school"
+   },
+   {
+      "image": "/images/icon/icon-chat.png",
+      "title": "Speech Therapy",
+      "cate": "school"
+   },
+   {
+      "image": "/images/icon/icon-discussion.png",
+      "title": "Communication Therapies",
+      "cate": "school"
+   },
+   {
+      "image": "/images/icon/icon-test.png",
+      "title": "Assessments",
+      "cate": "individual"
+   },
+   {
+      "image": "/images/icon/icon-chat.png",
+      "title": "Counseling",
+      "cate": "individual"
+   },
+   {
+      "image": "/images/icon/icon-desk.png",
+      "title": "Work Shops / Seminars",
+      "cate": "individual"
+   },
+   {
+      "image": "/images/icon/icon-homework.png",
+      "title": "Therapies",
+      "cate": "individual"
+   },
+   {
+      "image": "/images/icon/icon-eye.png",
+      "title": "Cognition / developmental levels",
+      "cate": "domains"
+   },
+   {
+      "image": "/images/icon/icon-chat.png",
+      "title": "Communication skills",
+      "cate": "domains"
+   },
+   {
+      "image": "/images/icon/icon-home.png",
+      "title": "Self-help, Independent living skills",
+      "cate": "domains"
+   },
+   {
+      "image": "/images/icon/icon-discussion.png",
+      "title": "Social / Emotional skills",
+      "cate": "domains"
+   },
+   {
+      "image": "/images/icon/icon-game.png",
+      "title": "Play / Leisure time activities",
+      "cate": "domains"
+   },
+   {
+      "image": "/images/icon/icon-family.png",
+      "title": "Community-based skills",
+      "cate": "domains"
+   },
+   {
+      "image": "/images/icon/icon-eye.png",
+      "title": "Sensory regulation",
+      "cate": "domains"
+   },
+   {
+      "image": "/images/icon/icon-education.png",
+      "title": "Academic skills",
+      "cate": "domains"
+   },
+   {
+      "image": "/images/icon/icon-test.png",
+      "title": "Behavior",
+      "cate": "domains"
+   },
+   {
+      "image": "/images/icon/icon-fitness.png",
+      "title": "Motor skills",
+      "cate": "domains"
+   },
+   {
+      "image": "/images/icon/icon-work.png",
+      "title": "Vocational skills",
+      "cate": "domains"
+   },
+   {
+      "image": "/images/icon/icon-39.png",
+      "title": "Digital strategy",
+      "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+      "cate": "Business"
+   },
+   {
+      "image": "/images/icon/icon-40.png",
+      "title": "Business consulting",
+      "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+      "cate": "Business"
+   },
+   {
+      "image": "/images/icon/icon-41.png",
+      "title": "Content writing",
+      "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+      "cate": "Business"
+   },
+   {
+      "image": "/images/icon/icon-42.png",
+      "title": "Reporting",
+      "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+      "cate": "Business"
+   },
+   {
+      "image": "/images/icon/icon-test.png",
+      "title": "Standardized assessment tools",
+      "cate": "methods"
+   },
+   {
+      "image": "/images/icon/icon-chat.png",
+      "title": "A family interview",
+      "cate": "methods"
+   },
+   {
+      "image": "/images/icon/icon-registration.png",
+      "title": "Documentation of symptoms",
+      "cate": "methods"
+   },
+   {
+      "image": "/images/icon/icon-growth.png",
+      "title": "Developmental assessment approaches",
+      "cate": "methods"
+   },
+   {
+      "image": "/images/icon/icon-test.png",
+      "title": "A review of records",
+      "cate": "methods"
+   },
+   {
+      "image": "/images/icon/icon-family.png",
+      "title": "Family assessment",
+      "cate": "methods"
+   },
+   {
+      "image": "/images/icon/icon-history.png",
+      "title": "A developmental history",
+      "cate": "methods"
+   },
+   {
+      "image": "/images/icon/icon-course.png",
+      "title": "Natural and structured observations in multiple settings",
+      "cate": "methods"
+   },
+   {
+      "image": "/images/icon/icon-45.png",
+      "title": "Web Audit Practices",
+      "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+      "cate": "Content strategy"
+   },
+   {
+      "image": "/images/icon/icon-46.png",
+      "title": "Marketing Flexibility",
+      "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+      "cate": "Content strategy"
+   },
+   {
+      "image": "/images/icon/icon-47.png",
+      "title": "Advertising Strategy",
+      "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+      "cate": "Content strategy"
+   },
+   {
+      "image": "/images/icon/aim.png",
+      "title": "Learning Disabilities",
+      "description": "Children and youth with learning disabilities have average to above average intelligence but have lifetime processing (perceptual) problems that cause a pattern of uneven abilities and observable weaknesses in reading, writing, speaking, listening, problem solving, mathematics, and social skills.",
+      "more": "Their intelligence gives them great potential to excel and become very successful. Such people as Tom Cruise, Cher, Walt Disney, Winston Churchill, and Albert Einstein are known to have had learning disabilities. However, to be successful, students with learning disabilities need to be made aware of their learning difficulties, remedial strategies where appropriate, and be continually creative, persistent, and positive throughout their lives.",
+      "thumb": "/images/banner/learning.jpg"
+   },
+   {
+      "image": "/images/icon/approach.png",
+      "title": "ADHD - Attention Deficit Hyperactivity Disorder",
+      "description": "The term for severe attention problems is attention-deficit hyperactivity ADHD). According to the Diagnostic and Statistical Manual and Mental Disorders (DSMIV) (American Psychiatric Association, 1994), ADHD is characterized by chronic and maladaptive inattentiveness, and/or hyperactivity-impulsivity.",
+      "thumb": "/images/banner/attention.jpg",
+      "more": "Typically, the diagnosis of ADHD is the result of individualized testing of cognitive ability and achievement by psychologists, behavior ratings by parents and teachers, and a medical screening (McBurnett, Lahey, and Pfeiffer)."
+   },
+   {
+      "image": "/images/icon/believe.png",
+      "title": "Behaviour Disorders & Emotional Disturbances",
+      "thumb": "/images/banner/behaviour.jpg",
+      "description": "Teachers in today's classrooms are likely to have children who behave in ways that depart significantly from social or cultural norms-for example, children who act out in inappropriate and unacceptable ways, withdraw from others around them and/or are isolated and rejected from their peers, appear very anxious about various situations, or seem to be depressed and helpless over long periods of time.",
+      "more": "The records may report that these children tend to show frustration when trying to reach their goals, have difficulty solving academic and social problems and interacting with others, and tend to create discomfort for themselves and others around them. Most likely, they are children with emotional disturbances and behavioral disorders because their problems interfere with their development."
+   },
+   {
+      "image": "/images/icon/aim.png",
+      "title": "Communication Disorders",
+      "thumb": "/images/banner/communication.jpg",
+      "description": "Researchers have estimated that one out of twenty children have some degree of language and speech problems, regardless of cognitive development, family background, or presence of other exceptionalities (Reynolds & Birch).",
+      "more": "A speech impairment is defined as a communication disorder, such as stuttering impaired articulation, a language impairment, or voice impairment, which adversely affects a child's education performance."
+   },
+   {
+      "image": "/images/icon/approach.png",
+      "title": "Autism",
+      "thumb": "/images/banner/autism.jpg",
+      "description": "Autism is a pervasive developmental disorder that can exist in many forms, from mild to severe. Although children with autism have been the focus of many research efforts, the condition remains very difficult to understand. However, many experts consider autism to be organic in nature (Sturmey & Sevin, 1994) and due to generic factors (Rutter, 1996). Recent reports of prevalence rates estimate a frequency of 1 per 1000 (Bryson, 1996) and affecting more days than girls (4:1) (Bailey, Philips, & Rutter, 1996).",
+      "more": "According to the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) autism is indicated by pervasive impairment in several areas of development: reciprocal social interaction skills, communication skills, and the presence of stereotyped behavior, interests, and activities. The qualitative impairments that define these conditions are distinctly deviant relative to the individual’s developmental level or mental age."
+   }
+]

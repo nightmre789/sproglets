@@ -1,0 +1,67 @@
+[
+   {
+      "id": 1,
+      "thumb": "/images/team/team-1.png",
+      "title": "Dr. Rubina Hamid",
+      "designation": "Founder, CEO <br> M.B.B.S, M.C.P.S, M.Ed. (Sp.education), Diploma Behaviour Management (U.K)",
+      "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
+      "social": {
+         "facebook": "https://www.facebook.com/",
+         "twitter": "https://twitter.com/",
+         "pinterst": "https://www.pinterest.com/",
+         "linkedin": "https://www.linkedin.com/",
+         "instagram": "https://www.instagram.com/",
+         "vimeo": "https://vimeo.com/",
+         "dribble": "https://dribbble.com/",
+         "behance": "https://www.behance.net/"
+      },
+      "roles": [
+         "Autism Consultant",
+         "P.D.D. Consultant",
+         "Special Educator",
+         "Therapeutic Consultant"
+      ]
+   },
+   {
+      "id": 2,
+      "thumb": "/images/team/team-2.jfif",
+      "title": "Dr. Shabbir Saifuddin Rangwala",
+      "designation": "Consultant Neurologist <br> M.B.B.S, Diploma Neurology (U.K)",
+      "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
+      "social": {
+         "facebook": "https://www.facebook.com/",
+         "twitter": "https://twitter.com/",
+         "pinterst": "https://www.pinterest.com/",
+         "linkedin": "https://www.linkedin.com/",
+         "instagram": "https://www.instagram.com/",
+         "vimeo": "https://vimeo.com/",
+         "dribble": "https://dribbble.com/",
+         "behance": "https://www.behance.net/"
+      }
+   },
+   {
+      "id": 3,
+      "thumb": "/images/team/team-3.png",
+      "title": "Rest of the Team",
+      "description": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.",
+      "social": {
+         "facebook": "https://www.facebook.com/",
+         "twitter": "https://twitter.com/",
+         "pinterst": "https://www.pinterest.com/",
+         "linkedin": "https://www.linkedin.com/",
+         "instagram": "https://www.instagram.com/",
+         "vimeo": "https://vimeo.com/",
+         "dribble": "https://dribbble.com/",
+         "behance": "https://www.behance.net/"
+      },
+      "roles": [
+         "Special Educators (5)",
+         "Physiotherapist (1)",
+         "Speech Therapist (1)",
+         "Occupational Therapist (1)",
+         "Clinical Psychologist (1)",
+         "Nurse (1)",
+         "Attendants / Helpers (3)"
+      ]
+   }
+]

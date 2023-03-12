@@ -1,0 +1,98 @@
+[
+   {
+      "id": 1,
+      "title": "Diagnostic Assessment",
+      "body": "",
+      "list": [
+         "• Autism Diagnostic Interview Revised",
+         "• Paralinguistic Autism Diagnostic Observation Schedule",
+         "• Childhood Autism Rating Scale.",
+         "• Checklist for Autism in Toddlers",
+         "• Pervasive Developmental Disorder Screening Test",
+         "• Autism Screening Instrument for Educational Planning (2nd ed.)",
+         "• Diagnostic Checklist for Behavior - Disturbed Children",
+         "• Gilliam Autism Rating Scale"
+      ]
+   },
+   {
+      "id": 2,
+      "title": "Development Assessment",
+      "body": "",
+      "list": [
+         "• Psychoeducational Profile-Revised",
+         "• Developmental Play Assessment Instrument"
+      ]
+   },
+   {
+      "id": 3,
+      "title": "Adaptive Assessment",
+      "body": "",
+      "list": ["• Vineland Adaptive Behavior Scales"]
+   },
+   {
+      "id": 4,
+      "title": "Communication Assessment",
+      "body": "",
+      "list": [
+         "• Sequenced Inventory of Communication Development (Rev. ed.)",
+         "• The Non-speech Test for Receptive/Expressive Language",
+         "• Assessing Semantic Skills Through Everyday Themes",
+         "• Expressive One-Word Picture Vocabulary Test (Rev. ed)",
+         "• Receptive One-Word Picture Vocabulary Test (Rev. ed)",
+         "• Clinical Evaluation of Language Fundamentals - Preschool",
+         "• Peabody Picture Vocabulary Test (Rev. ed)",
+         "• Reynell Developmental Language Scales",
+         "• Preschool Language Scale (3rd ed.)"
+      ]
+   },
+   {
+      "id": 5,
+      "title": "Infant / Toddler Assessment",
+      "body": "",
+      "list": [
+         "• Bayley Scales of Infant Development (2nd ed.)",
+         "• Mullen Scales of Early Learning"
+      ]
+   },
+   {
+      "id": 6,
+      "title": "Standardized Tests of Intelligence",
+      "body": "",
+      "list": [
+         "• Wechsler Preschool and Primary Scale of Intelligence (Rev. ed.)",
+         "• Wechsler Intelligence Scale for Children (3rd ed.)",
+         "• Stanford-Binet Intelligence Scale (4th ed.)"
+      ]
+   },
+   {
+      "id": 7,
+      "title": "Tests of Nonverbal Intelligence",
+      "body": "",
+      "list": [
+         "• Columbia Mental Maturity Scale (3rd ed.)",
+         "• Test of Nonverbal Intelligence (2nd ed.)"
+      ]
+   },
+   {
+      "id": 8,
+      "title": "Academic Screening",
+      "body": "",
+      "list": [
+         "• Wide Range Achievement Test 3 (WRAT3)",
+         "• Behavior Assessment",
+         "• Analysis of Sensory Behavior Inventory (Rev. ed.)"
+      ]
+   },
+   {
+      "id": 9,
+      "title": "Family Assessment",
+      "body": "",
+      "list": [
+         "• Parenting Satisfaction Scale",
+         "• Family Assessment Interview",
+         "• Complete medical examination",
+         "• Parenting Stress Index (3rd ed.)",
+         "• Child Improvement Locus of Control Scale"
+      ]
+   }
+]

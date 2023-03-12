@@ -1,0 +1,27 @@
+[
+   {
+      "image": "/images/icon/aim.png",
+      "title": "Learning Disabilities",
+      "description": "Children and youth with learning disabilities have average to above average intelligence but have lifetime processing (perceptual) problems that cause a pattern of uneven abilities and observable weaknesses in reading, writing, speaking, listening, problem solving, mathematics, and social skills."
+   },
+   {
+      "image": "/images/icon/approach.png",
+      "title": "ADHD - Attention Deficit Hyperactivity Disorder",
+      "description": "According to the Diagnostic and Statistical Manual and Mental Disorders (DSMIV) (American Psychiatric Association, 1994), ADHD is characterized by chronic and maladaptive inattentiveness, and/or hyperactivity-impulsivity."
+   },
+   {
+      "image": "/images/icon/believe.png",
+      "title": "Behaviour Disorders & Emotional Disturbances",
+      "description": "Children who behave in ways that depart significantly from social or cultural norms-for example, children who act out in inappropriate and unacceptable ways, withdraw from others around them and/or are isolated and rejected from their peers, appear very anxious about various situations."
+   },
+   {
+      "image": "/images/icon/aim.png",
+      "title": "Communication Disorders",
+      "description": "Researchers have estimated that one out of twenty children have some degree of language and speech problems, regardless of cognitive development, family background, or presence of other exceptionalities (Reynolds & Birch)."
+   },
+   {
+      "image": "/images/icon/approach.png",
+      "title": "Autism",
+      "description": "Autism is a pervasive developmental disorder that can exist in many forms, from mild to severe. Although children with autism have been the focus of many research efforts, the condition remains very difficult to understand. However, many experts consider autism to be organic in nature (Sturmey & Sevin, 1994) and due to generic factors (Rutter, 1996)."
+   }
+]
